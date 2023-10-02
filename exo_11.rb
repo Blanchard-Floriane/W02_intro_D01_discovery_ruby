@@ -15,5 +15,3 @@ loop do #boucle loop
   break
 end
 
-
-
